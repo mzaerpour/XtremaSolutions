@@ -1,5 +1,4 @@
 # [Agriculture’s impact on water–energy balance varies across climates](https://link.growkudos.com/1eqzjantrls)
-)
 
 **Authors**: Masoud Zaerpour, masoud.zaerpour@ucalgary.ca, Shadi Hatami, André S. Ballarin, Simon Michael Papalexiou, Alain Pietroniro, and Ali Nazemi
 
