@@ -1,5 +1,5 @@
-[# Agriculture’s impact on water–energy balance varies across climates](
-https://link.growkudos.com/1eqzjantrls)
+# [Agriculture’s impact on water–energy balance varies across climates](https://link.growkudos.com/1eqzjantrls)
+)
 
 **Authors**: Masoud Zaerpour, masoud.zaerpour@ucalgary.ca, Shadi Hatami, André S. Ballarin, Simon Michael Papalexiou, Alain Pietroniro, and Ali Nazemi
 
@@ -12,10 +12,6 @@ Agriculture plays a key role in global food security, intricately tied to water 
 
 ---
 
-## Featured in:
-![Kudos: (https://link.growkudos.com/1eqzjantrls)
----
-
 ## What is it about?  
 Agriculture accounts for approximately 72% of global water use, and its growing demand is putting pressure on water supplies and disrupting natural balances. This study examined how agricultural activity influences the water–energy balance across 1,342 catchments in the United States and Great Britain, identifying key factors driving changes in streamflow patterns using a causal discovery algorithm.  Analysis showed that in temperate regions of Great Britain, cropland expansion weakened the natural link between rainfall and river flow more than any other factor, including aridity and vegetation cover. In snowy climates, however, cropland had the opposite effect, strengthening the connection between precipitation and streamflow. Further analysis suggested a shift toward greater groundwater reliance in the US agricultural areas, as changes in baseflow indicated reduced dependence on direct precipitation. These findings provide valuable insights for improving water management strategies, ensuring food security, and promoting sustainable development globally.
 
@@ -24,3 +20,6 @@ We combine a simple yet powerful Budyko framework with causal analysis to reveal
 
 ## Perspectives
 I hope that, in the face of population growth and climate change, this article draws attention to the need for sustainable agricultural expansion that carefully considers water resource management. Balancing the growing demand for food with responsible water use is more critical than ever. By highlighting how agriculture's impact on the water–energy balance varies across different climates, I hope this research sparks discussions on innovative development and management strategies that ensure long-term sustainability. Our goal is for this work to encourage policies and practices that support both agricultural productivity and the preservation of vital water resources, ultimately helping to secure a more resilient future for both people and the environment.
+
+## Reference 
+(https://doi.org/10.1073/pnas.2410521122)
