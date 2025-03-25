@@ -20,7 +20,7 @@ Figure 2 compares how well catchments in the United States (panels A and B) and 
 
 Overall, the figure shows that agricultural activity—in both the United States and Great Britain—tends to shift catchments away from the “natural” water balance predicted by the Budyko curve, likely because cropland management alters how much water is evaporated or used by crops before it becomes runoff.
 
-![Figure 1](XtremaSolutions/images/figure01.jpg)
+![Figure 1](../figure01.jpg)
 
 ---
 
